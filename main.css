@@ -1,0 +1,15 @@
+.big{
+    color: blue;
+}
+
+.container div{
+    border: solid 1px green;
+}
+
+div{
+    font-weight: bold;
+}
+
+p{
+    background-color: yellow;
+}
